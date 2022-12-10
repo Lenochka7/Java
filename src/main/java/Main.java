@@ -3,5 +3,6 @@ public class Main {
         int ticket = 20000;
         int mile = 20;
         int miles = ticket / mile;
-   System.out.println("Итого бонусных миль: " + miles); }
+        System.out.println("Итого бонусных миль: " + miles);
+    }
 }
